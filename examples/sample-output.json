@@ -1,0 +1,13 @@
+{
+  "lead_score": 92,
+  "qualification": "high_priority",
+  "company_type": "ecommerce",
+  "estimated_fit": "strong",
+  "identified_needs": [
+    "customer_support_automation",
+    "lead_qualification"
+  ],
+  "recommended_solution": "AI Agent + GTM Automation",
+  "recommended_action": "book_demo",
+  "reasoning_summary": "Strong fit based on company profile, operational needs and clear automation use cases."
+}
